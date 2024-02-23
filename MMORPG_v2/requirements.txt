@@ -1,0 +1,8 @@
+django-allauth
+celery
+redis
+django-apscheduler
+python-dotenv
+
+
+
